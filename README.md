@@ -13,8 +13,8 @@ Points discussed :
 ## Get the Code
 
 ```
-$ git clone https://github.com/mosesnova/React-CRUD-with-Asp.Net-Core-Web-API.git
-$ cd React-CRUD-with-Asp.Net-Core-Web-API/react-app
+$ git clone https://github.com/mosesnova/Datacom1.git
+$ cd /react-app
 $ npm install
 //update Web API DB connection string
 ```
